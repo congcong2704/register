@@ -1,0 +1,9 @@
+text-color: #00234b
+icon-color: #0052b2 (back-ground)
+icon-color-of-0052b2: #6497d3
+text-color-of-0052b2: #ffff
+background-form: #f0f9fc
+border-input-color: #b3cce8
+text-gray: #808d9e
+background-footer: #e5f5fc
+icon-bottom-color: #73bf2f
